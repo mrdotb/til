@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+import os
+from functools import reduce
+from collections import OrderedDict
+from mako.template import Template
+
+# os.chdir('..')
+
+categories = {}
+cwd = os.getcwd()
+
+def filter_categories(path):
+    return os.path.isdir(path) and path[0] != '.'
+
+for category in filter(filter_categories, os.listdir(cwd)):
+    til_path = os.path.join(cwd, category)
+    tils = os.listdir(til_path)
+    tils.sort()
+    categories.update({category: tils})
+
+til_count = reduce(lambda acc, el: acc + len(el), categories.values(), 0)
+categories = OrderedDict(sorted(categories.items()))
+
+readme_template = Template(filename='.build/readme.md.mako')
+readme = readme_template.render_unicode(categories=categories, til_count=til_count)
+
+file = open('readme.md', 'w')
+file.write(readme)
+file.close()
