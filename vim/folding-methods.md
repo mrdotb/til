@@ -1,4 +1,4 @@
-# Fold methods
+# Folding methods
 
 Vim suports six differents ways of defining how your text should be folded:
 + 'Manual' Created bu hands and stored in RAM, when you close VIM you have to recreate them. Can be handy sometime if you are using custom mapping.
