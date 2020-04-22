@@ -9,7 +9,7 @@ warrant a full blog post. These are things I've picked up by Learning In Publicâ
 _8 TILs and counting..._
 
 
---
+---
 
 
 <h2>Categories</h2>
@@ -20,7 +20,7 @@ _8 TILs and counting..._
 * [vim](#vim)
 
 
---
+---
 
 
 <h3 id="c">c</h3>

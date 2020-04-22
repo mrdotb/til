@@ -10,7 +10,7 @@ warrant a full blog post. These are things I've picked up by Learning In Publicâ
 _${til_count} TILs and counting..._
 
 
---
+---
 
 
 <h2>Categories</h2>
@@ -20,7 +20,7 @@ _${til_count} TILs and counting..._
 % endfor
 
 
---
+---
 
 
 % for category, tils in categories.items():
