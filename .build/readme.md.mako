@@ -16,7 +16,7 @@ _${til_count} TILs and counting..._
 <h2>Categories</h2>
 
 % for category in categories:
-*[${category}](#${category})
+* [${category}](#${category})
 % endfor
 
 
@@ -27,7 +27,7 @@ _${til_count} TILs and counting..._
 <h3 id="${category}">${category}</h3>
 
 % for til in tils:
--[${til.replace('-', ' ').replace('.md', '').title()}](#${category}/${til})
+- [${til.replace('-', ' ').replace('.md', '').title()}](#${category}/${til})
 % endfor
 
 % endfor
