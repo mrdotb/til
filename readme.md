@@ -31,17 +31,17 @@ _8 TILs and counting..._
 
 <h3 id="unix">unix</h3>
 
-- [Curl No Body Only Header](#unix/curl-no-body-only-header.md)
-- [Replace Path By Another One](#unix/replace-PATH-by-another-one.md)
+- [Curl No Body Only Header](/mrdotb/til/blob/master/unix/curl-no-body-only-header.md)
+- [Replace Path By Another One](/mrdotb/til/blob/master/unix/replace-PATH-by-another-one.md)
 
 <h3 id="vim">vim</h3>
 
-- [Edit Source Vimrc From Current Vim](#vim/edit-source-vimrc-from-current-vim.md)
-- [Folding Bindings](#vim/folding-bindings.md)
-- [Folding Methods](#vim/folding-methods.md)
-- [Preview Substitute](#vim/preview-substitute.md)
-- [Resize Split](#vim/resize-split.md)
-- [Vim Emoji](#vim/vim-emoji.md)
+- [Edit Source Vimrc From Current Vim](/mrdotb/til/blob/master/vim/edit-source-vimrc-from-current-vim.md)
+- [Folding Bindings](/mrdotb/til/blob/master/vim/folding-bindings.md)
+- [Folding Methods](/mrdotb/til/blob/master/vim/folding-methods.md)
+- [Preview Substitute](/mrdotb/til/blob/master/vim/preview-substitute.md)
+- [Resize Split](/mrdotb/til/blob/master/vim/resize-split.md)
+- [Vim Emoji](/mrdotb/til/blob/master/vim/vim-emoji.md)
 
 
 <h4>About</h4>
