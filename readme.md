@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 
 ---
@@ -33,6 +33,7 @@ _8 TILs and counting..._
 
 - [Curl No Body Only Header](unix/curl-no-body-only-header.md)
 - [Replace Path By Another One](unix/replace-PATH-by-another-one.md)
+- [Zsh Edit Last Cmd Line In $Editor](unix/zsh-edit-last-cmd-line-in-$EDITOR.md)
 
 <h3 id="vim">vim</h3>
 
