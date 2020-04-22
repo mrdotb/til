@@ -27,7 +27,7 @@ _${til_count} TILs and counting..._
 <h3 id="${category}">${category}</h3>
 
 % for til in tils:
-- [${til.replace('-', ' ').replace('.md', '').title()}](/mrdotb/til/blob/master/${category}/${til})
+- [${til.replace('-', ' ').replace('.md', '').title()}](${category}/${til})
 % endfor
 
 % endfor
