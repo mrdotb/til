@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 
 ---
@@ -15,6 +15,7 @@ _10 TILs and counting..._
 <h2>Categories</h2>
 
 * [c](#c)
+* [elixir](#elixir)
 * [javascript](#javascript)
 * [unix](#unix)
 * [vim](#vim)
@@ -25,6 +26,10 @@ _10 TILs and counting..._
 
 <h3 id="c">c</h3>
 
+
+<h3 id="elixir">elixir</h3>
+
+- [Convert_Elixir_Str_To_Erlang_Str](elixir/convert_elixir_str_to_erlang_str.md)
 
 <h3 id="javascript">javascript</h3>
 
