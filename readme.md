@@ -29,7 +29,7 @@ _11 TILs and counting..._
 
 <h3 id="elixir">elixir</h3>
 
-- [Convert_Elixir_Str_To_Erlang_Str](elixir/convert_elixir_str_to_erlang_str.md)
+- [Convert Elixir Str To Erlang Str](elixir/convert-elixir-str-to-erlang-str.md)
 
 <h3 id="javascript">javascript</h3>
 
