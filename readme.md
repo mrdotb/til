@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 
 ---
@@ -41,6 +41,7 @@ _13 TILs and counting..._
 - [Pass Env To Awk](unix/pass-env-to-awk.md)
 - [Replace Path By Another One](unix/replace-PATH-by-another-one.md)
 - [Show Permission In Octal](unix/show-permission-in-octal.md)
+- [Use Google Dns](unix/use-google-dns.md)
 - [Zsh Edit Last Cmd Line In $Editor](unix/zsh-edit-last-cmd-line-in-$EDITOR.md)
 
 <h3 id="vim">vim</h3>
