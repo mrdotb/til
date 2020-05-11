@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 
 ---
@@ -38,6 +38,7 @@ _14 TILs and counting..._
 <h3 id="unix">unix</h3>
 
 - [Curl No Body Only Header](unix/curl-no-body-only-header.md)
+- [How To Use Mkfifo](unix/how-to-use-mkfifo.md)
 - [Pass Env To Awk](unix/pass-env-to-awk.md)
 - [Replace Path By Another One](unix/replace-PATH-by-another-one.md)
 - [Show Permission In Octal](unix/show-permission-in-octal.md)
