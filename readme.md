@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 
 ---
@@ -17,6 +17,7 @@ _15 TILs and counting..._
 * [c](#c)
 * [elixir](#elixir)
 * [javascript](#javascript)
+* [scss](#scss)
 * [unix](#unix)
 * [vim](#vim)
 
@@ -34,6 +35,10 @@ _15 TILs and counting..._
 
 <h3 id="javascript">javascript</h3>
 
+
+<h3 id="scss">scss</h3>
+
+- [Interpolate Scss Var In Css Function](scss/interpolate-scss-var-in-css-function.md)
 
 <h3 id="unix">unix</h3>
 
