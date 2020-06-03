@@ -47,4 +47,4 @@ end
 ```
 
 Source:
-- [how to set diffenrent layouts](https://cultivatehq.com/posts/how-to-set-different-layouts-in-phoenix/)
+- [how to set different layouts](https://cultivatehq.com/posts/how-to-set-different-layouts-in-phoenix/)
