@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 
 ---
@@ -17,6 +17,7 @@ _17 TILs and counting..._
 * [c](#c)
 * [elixir](#elixir)
 * [javascript](#javascript)
+* [phoenix](#phoenix)
 * [scss](#scss)
 * [unix](#unix)
 * [vim](#vim)
@@ -36,6 +37,10 @@ _17 TILs and counting..._
 
 <h3 id="javascript">javascript</h3>
 
+
+<h3 id="phoenix">phoenix</h3>
+
+- [Set Different Layout](phoenix/set-different-layout.md)
 
 <h3 id="scss">scss</h3>
 
