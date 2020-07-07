@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 
 ---
@@ -37,6 +37,7 @@ _19 TILs and counting..._
 
 <h3 id="javascript">javascript</h3>
 
+- [Webpack Logging Errors Only](javascript/webpack-logging-errors-only.md)
 
 <h3 id="phoenix">phoenix</h3>
 
