@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are things I've picked up by Learning In Public™.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 
 ---
@@ -31,6 +31,7 @@ _20 TILs and counting..._
 
 <h3 id="elixir">elixir</h3>
 
+- [Asdf Elixir Get Erlang Doc](elixir/asdf-elixir-get-erlang-doc.md)
 - [Convert Elixir Str To Erlang Str](elixir/convert-elixir-str-to-erlang-str.md)
 - [Empty System Env Elixir](elixir/empty-system-env-elixir.md)
 - [Use Fzf On Iex History](elixir/use-fzf-on-iex-history.md)
